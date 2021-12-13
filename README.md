@@ -23,6 +23,7 @@ Leadership and qualities of a leadership are important.
 
 - [Narwallets](https://narwallets.com/) - The NEAR Chrome extension wallet
 - [NEAR PIN](https://github.com/eadsoy/NEAR-L2-Near-Pin)
+- [Tanda Dapp](https://github.com/NEAR-Hispano/Tanda-Dapp) - Dapp usando el modelo de ahorros conocido como Tanda.
 
 ### NEAR Resources
 
