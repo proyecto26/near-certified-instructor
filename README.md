@@ -35,6 +35,7 @@ Leadership and qualities of a leadership are important.
 - [Become a Teacher](https://www.near.university/teach)
 - [NEAR in Minutes](https://near-in-minutes.com/) - Learn NEAR in a Community-based initiative
 - [NEAR Certified Developer L1 in Spanish](https://cristian-zambrano.gitbook.io/near-hispano/pre-work/dia-0-antes-de-iniciar)
+- [Refactoring a simple example of a NEAR smart contract written in AssemblyScript](https://youtu.be/QP7aveSqRPo)
 
 ### Other resources
 
