@@ -5,17 +5,14 @@ Leadership and qualities of a leadership are important.
 ## Links
 
 - NEAR Certified Developer I: https://hackmd.io/@nearly-learning/ncd-1-1d
-    - [Presentation](https://docs.google.com/presentation/d/1a7fVnVjn1u29C1T30DAv6pJmb4YlnvAzenFZHQoTUSI/edit?usp=sharing)
+    - [Presentation](https://bit.ly/ncd-1-1d-slides)
 - NEAR Certified Developer II: https://hackmd.io/@nearly-learning/ncd-2-1d
+    - [Exploring](https://hackmd.io/@nearly-learning/ncd-2-1d--exploring)
+    - [Presentation](https://bit.ly/ncd-2-1d-slides)
 - NCI resources: https://bit.ly/nci-resources
 - NCI course: https://hackmd.io/@nearly-learning/nci
 - [NEAR 101](https://docs.google.com/presentation/d/1jNpzqRAm44HGefgrlOpXV-qwJQQ1X8JOBSpxhkUNchI/edit?usp=sharing) - An introductory workshop for web developers.
 - Near Protocol Notes: https://git-leon.github.io/near-protocol-notes/
-
-### Presentations
-
-- [NCD I](https://bit.ly/ncd-1-1d-slides) - NEAR Certified Developer I
-- [NCD II](https://hackmd.io/@nearly-learning/ncd-2-1d--exploring) -- NEAR Certified Developer II
 
 ### Videos
 
