@@ -4,14 +4,17 @@ Leadership and qualities of a leadership are important.
 
 ## Links
 
+- [NEAR 101](https://docs.google.com/presentation/d/1jNpzqRAm44HGefgrlOpXV-qwJQQ1X8JOBSpxhkUNchI/edit?usp=sharing) - An introductory workshop for web developers.
+- [Intro to NEAR for Senior Developers](https://hackmd.io/@nearly-learning/near-201)
 - NEAR Certified Developer I: https://hackmd.io/@nearly-learning/ncd-1-1d
     - [Presentation](https://bit.ly/ncd-1-1d-slides)
+    - [Hello AssemblyScript](https://docs.google.com/presentation/d/1Sz823KGP_dI2bNUoTlQtphI3Sz2Jej5bmYl-oYhp5HM) - Using AssemblyScript to build contracts on NEAR Protocol
+    - [NEAR Certified Developer L1 in Spanish](https://cristian-zambrano.gitbook.io/near-hispano/pre-work/dia-0-antes-de-iniciar)
 - NEAR Certified Developer II: https://hackmd.io/@nearly-learning/ncd-2-1d
     - [Exploring](https://hackmd.io/@nearly-learning/ncd-2-1d--exploring)
     - [Presentation](https://bit.ly/ncd-2-1d-slides)
 - NCI resources: https://bit.ly/nci-resources
 - NCI course: https://hackmd.io/@nearly-learning/nci
-- [NEAR 101](https://docs.google.com/presentation/d/1jNpzqRAm44HGefgrlOpXV-qwJQQ1X8JOBSpxhkUNchI/edit?usp=sharing) - An introductory workshop for web developers.
 - Near Protocol Notes: https://git-leon.github.io/near-protocol-notes/
 
 ### Videos
@@ -35,10 +38,9 @@ Leadership and qualities of a leadership are important.
 - [Awesome NEAR](https://awesomenear.com/) - Curated list of all projects building on NEAR ecosystem.
 - [Learn NEAR](https://github.com/learn-near) - A collection of learning materials for NEAR Protocol.
 - [NEAR Education Fellowship Programs](https://www.near.university/earn/fellowship)
-- [1,000 Teacher Education Program](https://near.org/blog/near-education-1000-teachers-program/) - Create an Ecosystem of Teachers by [NEAR Education](https://near.org/education/)
+- [Hiring Devs/Teachers](https://near.org/blog/near-education-1000-teachers-program/) - Create an Ecosystem of Teachers by [NEAR Education](https://near.org/education/)
 - [Become a Teacher](https://www.near.university/teach)
 - [NEAR in Minutes](https://near-in-minutes.com/) - Learn NEAR in a Community-based initiative
-- [NEAR Certified Developer L1 in Spanish](https://cristian-zambrano.gitbook.io/near-hispano/pre-work/dia-0-antes-de-iniciar)
 - [Refactoring a simple example](https://youtu.be/QP7aveSqRPo) - A NEAR smart contract written in AssemblyScript
 - [NEAR Protocol Workshop](http://bit.ly/near-sdk-as) - Exploring AssemblyScript Contracts
 - [Building a CRUD dApp](https://docs.near.org/docs/tutorials/apps/todos-crud-app)
@@ -57,6 +59,17 @@ Leadership and qualities of a leadership are important.
 
 ### Teacher resources
 - [Telling Tension](https://www.sellingpower.com/2010/02/02/8771/what-is-telling-tension-and-how-do-you-manage-it) - What Is “Telling Tension” and How Do You Manage It?
+- [Ask Questions here](https://stackoverflow.com/questions/tagged/nearprotocol)
+- [Course Feedback](https://bit.ly/nc-nps)
+- [Gas Concept](https://docs.near.org/docs/concepts/gas)
+- [Architecture Papers](https://docs.near.org/docs/concepts/architecture/papers)
+- [nearup](https://github.com/near/nearup) - Launch NEAR betanet and testnet nodes.
+- [Fellowship Programs](https://www.near.university/earn/fellowship)
+- [Ambassador Program](https://www.near.university/earn/ambassador-program)
+- [NEAR University Marketing](https://docs.google.com/presentation/d/19LAZsrfvFt2GpHPhVjCMzUekqOwjw1PekBx6jMuK5LY/edit?usp=sharing)
+- [nearclientios](https://github.com/near/near-api-swift) - Interact with NEAR blockchain from iOS and OS X apps using Swift
+- [near-api-js Starter Kit](https://github.com/Learn-NEAR/starter--near-api-js) - get oriented to frontend development
+- [NEAR weekly updates](https://gov.near.org/tag/weekly-updates) - [Engineering Weekly Update](https://gov.near.org/t/engineering-weekly-update-2021-12-13/10904)
 
 ---
 
